@@ -26,3 +26,7 @@ Nós precisamos da solução desse simples mas importante teste lógico que segu
 - Multiplos de 15 devem ser substituídos por FizzBuzz
 - Multiplos de 5 devem ser substituídos por Fizz
 - Multiplos de 3 devem ser substituídos por Buzz
+
+## Comentários Candidato Gustavo Fernandes Lima 
+
+Finalizado a elaboração do algoritmo de FizzBuzz
